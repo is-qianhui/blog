@@ -5,4 +5,4 @@ layout: about
 ---
 
 
-sdfasafsdfffsdfsfsdfsfsdfsdfsadfsd
+<img src="./me.jpg" />
